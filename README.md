@@ -23,3 +23,4 @@ pip install -r requirements.txt
 ```
 
 ### Project Demo
+The application you can find [here](https://app-gemini-ai-kh7z9qh54fzdiggr596tjl.streamlit.app/).
